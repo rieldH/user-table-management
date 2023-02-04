@@ -1,0 +1,9 @@
+.table {
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.table-data {
+  justify-content: space-between;
+  width: 500px;
+}
